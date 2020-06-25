@@ -3,6 +3,6 @@
         "enable_nbextension": true
     },
     "VoilaExecutePreprocessor": {
-        "timeout": 180
+        "timeout": 360
     }
 } 
